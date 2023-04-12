@@ -1,1 +1,1 @@
-ls../Desktop 
+ls ../Desktop 
